@@ -6,5 +6,5 @@ int main{
   printf("Enter number 2:");
   int b;
   scanf("%d",&b);
-  printf("Sum:",a+b);
+  printf("diff:",a-b);
 }
